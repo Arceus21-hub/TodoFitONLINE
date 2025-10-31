@@ -1,0 +1,25 @@
+# Archivos de compilación
+target/
+bin/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Dependencias descargadas por Maven (carpeta local)
+.mvn/
+
+# Archivos generados por el compilador
+*.class
