@@ -1,0 +1,10 @@
+com\todofit\util\LoggerUtil.class
+com\todofit\dao\ProductoDAO.class
+com\todofit\util\ExcelExporter.class
+com\todofit\view\FrmPrincipal.class
+com\todofit\dao\ProductoDAOImpl.class
+com\todofit\util\ConexionBD.class
+com\todofit\controller\ProductoController.class
+com\todofit\model\Producto.class
+com\todofit\view\FrmProducto.class
+com\todofit\view\UIHelper.class
